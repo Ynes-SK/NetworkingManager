@@ -5,6 +5,6 @@ A Swift Package Manager (SPM) that contains Networking services that we can use 
 Once you have your Swift package set up, add NetworkingManager as a dependency value of your Package.swift
 ```ruby
 dependencies: [
-    .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.5.0"))
+    .package(url: "https://github.com/Ynes-sk/NetworkingManager")
 ]
 ```
